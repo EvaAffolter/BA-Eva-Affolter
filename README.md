@@ -1,2 +1,1 @@
-# BA-Eva-Affolter
-Bachelorarbeit von Eva Affolter
+# Bachelorarbeit von Eva Affolter
